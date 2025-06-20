@@ -50,7 +50,7 @@ const AddPoints = (props: Props) => {
       }).unwrap();
 
       navigate('Home', {
-        successMessage: `${point} Points added successfully! New total: ${clientUpdate.total_points} points`,
+        successMessage: `${point} Points added successfully!  New total: ${clientUpdate.total_points} points`,
       });
     } catch (error) {
       Alert.alert('Error', 'Failed to update points. Please try again.');

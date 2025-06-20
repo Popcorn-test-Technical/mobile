@@ -55,6 +55,7 @@ const styles = StyleSheet.create({
   text: {
     fontSize: 15,
     fontFamily: FONTS.ClashDisplay.Medium,
+    flexWrap: 'wrap',
   },
   subText: { fontSize: 13, marginTop: 4 },
   actionText: { marginLeft: 10 },

@@ -48,7 +48,7 @@ const Home = () => {
     }, [params?.successMessage]),
   );
 
-  const client_id = '1';
+  const client_id = '2';
   const { data: client } = useGetClientByIdQuery(client_id);
 
   if (!client) {
