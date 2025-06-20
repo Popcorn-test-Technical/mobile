@@ -5,8 +5,8 @@ import { NavigationContainer } from '@react-navigation/native';
 import { INavigation } from '../types/interfaces';
 import { ROUTES } from '../types/enums';
 
-import Home from '../screens/Home';
 import AddPoints from '../screens/AddPoints';
+import Home from '../screens/Home';
 
 const Main = createStackNavigator<INavigation>();
 

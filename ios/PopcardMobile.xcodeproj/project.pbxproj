@@ -10,8 +10,19 @@
 		0C80B921A6F3F58F76C31292 /* libPods-PopcardMobile.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-PopcardMobile.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		17135250D695E7A85C1F68FA /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		311AB05A2FEF4495B9B88830 /* ClashDisplay-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5C647FF4A34948DC8093801B /* ClashDisplay-Semibold.otf */; };
+		3B7824723C5243618B183603 /* ClashDisplay-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = DFE300A8089245C0A013228E /* ClashDisplay-Light.otf */; };
+		573575A51837473E86C2B16E /* LotaGrotesque-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7E8B0BAC2C0B4A86A9669268 /* LotaGrotesque-Bold.otf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		852506F3DD9A49339F4794AB /* LotaGrotesque-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = E093A7D25D924629A2FC5844 /* LotaGrotesque-ExtraLight.otf */; };
+		AE5E86918D07441EA4DE3843 /* ClashDisplay-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = D45E54E19636423088A373BB /* ClashDisplay-Regular.otf */; };
+		D2F4C1466BB548A4A1C73ABF /* ClashDisplay-Extralight.otf in Resources */ = {isa = PBXBuildFile; fileRef = D025EFA3D104491A969048E3 /* ClashDisplay-Extralight.otf */; };
+		D539DE4F8AA143B6BB5532A2 /* LotaGrotesque-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 71FE4173E8D04FAEAA3F1F3E /* LotaGrotesque-SemiBold.otf */; };
+		E13AE4FFC38045BD995F3E05 /* LotaGrotesque-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1E66606A2C3249D5AF2652A7 /* LotaGrotesque-Regular.otf */; };
+		E143409EDCB240ED9CE006DD /* ClashDisplay-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = B9DF8CF5C3D14D1AB6D73FCC /* ClashDisplay-Medium.otf */; };
+		E5A969968615459D9EBFDFEB /* LotaGrotesque-ExtraLightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B45FBC2632694E09BFB2A237 /* LotaGrotesque-ExtraLightItalic.otf */; };
+		F22E29E546E44C2FB2C9AA62 /* ClashDisplay-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 87B83D7CBA474927B3FE4432 /* ClashDisplay-Bold.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,11 +30,22 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = PopcardMobile/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = PopcardMobile/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = PopcardMobile/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		1E66606A2C3249D5AF2652A7 /* LotaGrotesque-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "LotaGrotesque-Regular.otf"; path = "../src/assets/fonts/LotaGrotesque-Regular.otf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-PopcardMobile.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PopcardMobile.debug.xcconfig"; path = "Target Support Files/Pods-PopcardMobile/Pods-PopcardMobile.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-PopcardMobile.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PopcardMobile.release.xcconfig"; path = "Target Support Files/Pods-PopcardMobile/Pods-PopcardMobile.release.xcconfig"; sourceTree = "<group>"; };
+		5C647FF4A34948DC8093801B /* ClashDisplay-Semibold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "ClashDisplay-Semibold.otf"; path = "../src/assets/fonts/ClashDisplay-Semibold.otf"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-PopcardMobile.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-PopcardMobile.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		71FE4173E8D04FAEAA3F1F3E /* LotaGrotesque-SemiBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "LotaGrotesque-SemiBold.otf"; path = "../src/assets/fonts/LotaGrotesque-SemiBold.otf"; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = PopcardMobile/AppDelegate.swift; sourceTree = "<group>"; };
+		7E8B0BAC2C0B4A86A9669268 /* LotaGrotesque-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "LotaGrotesque-Bold.otf"; path = "../src/assets/fonts/LotaGrotesque-Bold.otf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = PopcardMobile/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		87B83D7CBA474927B3FE4432 /* ClashDisplay-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "ClashDisplay-Bold.otf"; path = "../src/assets/fonts/ClashDisplay-Bold.otf"; sourceTree = "<group>"; };
+		B45FBC2632694E09BFB2A237 /* LotaGrotesque-ExtraLightItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "LotaGrotesque-ExtraLightItalic.otf"; path = "../src/assets/fonts/LotaGrotesque-ExtraLightItalic.otf"; sourceTree = "<group>"; };
+		B9DF8CF5C3D14D1AB6D73FCC /* ClashDisplay-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "ClashDisplay-Medium.otf"; path = "../src/assets/fonts/ClashDisplay-Medium.otf"; sourceTree = "<group>"; };
+		D025EFA3D104491A969048E3 /* ClashDisplay-Extralight.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "ClashDisplay-Extralight.otf"; path = "../src/assets/fonts/ClashDisplay-Extralight.otf"; sourceTree = "<group>"; };
+		D45E54E19636423088A373BB /* ClashDisplay-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "ClashDisplay-Regular.otf"; path = "../src/assets/fonts/ClashDisplay-Regular.otf"; sourceTree = "<group>"; };
+		DFE300A8089245C0A013228E /* ClashDisplay-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "ClashDisplay-Light.otf"; path = "../src/assets/fonts/ClashDisplay-Light.otf"; sourceTree = "<group>"; };
+		E093A7D25D924629A2FC5844 /* LotaGrotesque-ExtraLight.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "LotaGrotesque-ExtraLight.otf"; path = "../src/assets/fonts/LotaGrotesque-ExtraLight.otf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -51,6 +73,25 @@
 			name = PopcardMobile;
 			sourceTree = "<group>";
 		};
+		2C74514A1BAB47929B2D4683 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				87B83D7CBA474927B3FE4432 /* ClashDisplay-Bold.otf */,
+				D025EFA3D104491A969048E3 /* ClashDisplay-Extralight.otf */,
+				DFE300A8089245C0A013228E /* ClashDisplay-Light.otf */,
+				B9DF8CF5C3D14D1AB6D73FCC /* ClashDisplay-Medium.otf */,
+				D45E54E19636423088A373BB /* ClashDisplay-Regular.otf */,
+				5C647FF4A34948DC8093801B /* ClashDisplay-Semibold.otf */,
+				7E8B0BAC2C0B4A86A9669268 /* LotaGrotesque-Bold.otf */,
+				E093A7D25D924629A2FC5844 /* LotaGrotesque-ExtraLight.otf */,
+				B45FBC2632694E09BFB2A237 /* LotaGrotesque-ExtraLightItalic.otf */,
+				1E66606A2C3249D5AF2652A7 /* LotaGrotesque-Regular.otf */,
+				71FE4173E8D04FAEAA3F1F3E /* LotaGrotesque-SemiBold.otf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -75,6 +116,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				2C74514A1BAB47929B2D4683 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -161,6 +203,17 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				17135250D695E7A85C1F68FA /* PrivacyInfo.xcprivacy in Resources */,
+				F22E29E546E44C2FB2C9AA62 /* ClashDisplay-Bold.otf in Resources */,
+				D2F4C1466BB548A4A1C73ABF /* ClashDisplay-Extralight.otf in Resources */,
+				3B7824723C5243618B183603 /* ClashDisplay-Light.otf in Resources */,
+				E143409EDCB240ED9CE006DD /* ClashDisplay-Medium.otf in Resources */,
+				AE5E86918D07441EA4DE3843 /* ClashDisplay-Regular.otf in Resources */,
+				311AB05A2FEF4495B9B88830 /* ClashDisplay-Semibold.otf in Resources */,
+				573575A51837473E86C2B16E /* LotaGrotesque-Bold.otf in Resources */,
+				852506F3DD9A49339F4794AB /* LotaGrotesque-ExtraLight.otf in Resources */,
+				E5A969968615459D9EBFDFEB /* LotaGrotesque-ExtraLightItalic.otf in Resources */,
+				E13AE4FFC38045BD995F3E05 /* LotaGrotesque-Regular.otf in Resources */,
+				D539DE4F8AA143B6BB5532A2 /* LotaGrotesque-SemiBold.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

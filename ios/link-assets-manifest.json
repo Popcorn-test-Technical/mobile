@@ -1,0 +1,49 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/ClashDisplay-Bold.otf",
+      "sha1": "bd717ab64fc380747bc734a097d6379c6cca24e3"
+    },
+    {
+      "path": "src/assets/fonts/ClashDisplay-Extralight.otf",
+      "sha1": "be7e3a551c21ce3b67ebde1c45faacac63948c1c"
+    },
+    {
+      "path": "src/assets/fonts/ClashDisplay-Light.otf",
+      "sha1": "4853269d062e6326fda140287fc079635e4489ce"
+    },
+    {
+      "path": "src/assets/fonts/ClashDisplay-Medium.otf",
+      "sha1": "fdc4f408b5117fd85166b198dfe4d0fac52c34c2"
+    },
+    {
+      "path": "src/assets/fonts/ClashDisplay-Regular.otf",
+      "sha1": "67d49fed960a230e12c212d5312dc3cf3ed1d73b"
+    },
+    {
+      "path": "src/assets/fonts/ClashDisplay-Semibold.otf",
+      "sha1": "64e9b35c59ea054e2aa2ac545d1692b61c8fc4bc"
+    },
+    {
+      "path": "src/assets/fonts/LotaGrotesque-Bold.otf",
+      "sha1": "03f86a2e6a5216881fcd8584323cb29e142c56e9"
+    },
+    {
+      "path": "src/assets/fonts/LotaGrotesque-ExtraLight.otf",
+      "sha1": "c63d961dd9a905f41137b5f98e916328d55da30b"
+    },
+    {
+      "path": "src/assets/fonts/LotaGrotesque-ExtraLightItalic.otf",
+      "sha1": "1d0c0c7c7da2194a15f271dc143e0d165e19b1ef"
+    },
+    {
+      "path": "src/assets/fonts/LotaGrotesque-Regular.otf",
+      "sha1": "2de4ed73cc12e444610ef4b2d4ca5ea8580de3a2"
+    },
+    {
+      "path": "src/assets/fonts/LotaGrotesque-SemiBold.otf",
+      "sha1": "08a2c3013e395387eacf6ca5d73a472d98761bb8"
+    }
+  ]
+}

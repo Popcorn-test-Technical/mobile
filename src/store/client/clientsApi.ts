@@ -1,13 +1,14 @@
 import { IClient } from '../../types/interfaces';
-import Api from '../api';
+import Api from '../Api';
 
 export const authApi = Api.injectEndpoints({
   endpoints: builder => ({
     getClientById: builder.query<IClient, string>({
       query: id => ({
-        url: `users/${id}`,
+        url: `clients/${id}`,
         method: 'GET',
       }),
+      providesTags: ['clients'],
     }),
 
     updateClientPoints: builder.mutation<
@@ -15,7 +16,7 @@ export const authApi = Api.injectEndpoints({
       { id: string; data: Partial<IClient> }
     >({
       query: ({ id, data }) => ({
-        url: `users/${id}`,
+        url: `clients/${id}`,
         method: 'PUT',
         body: data,
       }),

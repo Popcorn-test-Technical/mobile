@@ -1,5 +1,5 @@
 export type INavigation = {
-  Home: undefined;
+  Home: { successMessage: string };
   AddPoints: { client_id: string };
 };
 
@@ -7,6 +7,6 @@ export interface IClient {
   id?: string;
   name: string;
   phone_number: string;
-  points: number;
+  total_points: number;
   createdAt: string;
 }
