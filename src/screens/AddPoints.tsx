@@ -1,13 +1,16 @@
 import { StyleSheet, Text, View } from 'react-native';
 import React from 'react';
-import MainNaviagation from './src/navigation';
 
 type Props = {};
 
-const App = (props: Props) => {
-  return <MainNaviagation />;
+const AddPoints = (props: Props) => {
+  return (
+    <View>
+      <Text>AddPoints</Text>
+    </View>
+  );
 };
 
-export default App;
+export default AddPoints;
 
 const styles = StyleSheet.create({});
